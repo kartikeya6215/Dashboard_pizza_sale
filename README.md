@@ -43,13 +43,4 @@ The repo contains the **Power BI `.pbix`**, **SQL scripts**, and exportable v
 
 ---
 
-## 📂 Folder Structure
 
-📦 pizza‑sales‑dashboard
-├─ images/ # screenshots for README
-│ ├─ dashboard_overall.jpg
-│ └─ dashboard_bestworst.jpg
-├─ sql/
-│ └─ pizza_sales_queries.sql
-├─ Pizza_Sales_Dashboard.pbix
-└─ README.md
