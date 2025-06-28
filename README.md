@@ -14,7 +14,7 @@ The repo contains the **Power BI `.pbix`**, **SQL scripts**, and exportable v
 ## 🚀 Demo
 
 ### Overall Performance  
-![Pizza Dashboard – Overall](./main/IMG-20250628-WA0003.jpg)
+![Pizza Dashboard – Overall](./IMG-20250628-WA0003.jpg)
 
 ### Best / Worst Sellers Focus  
 ![Pizza Dashboard – Best vs Worst](./images/dashboard_bestworst.jpg)
