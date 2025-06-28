@@ -7,7 +7,7 @@ Dynamic Sales Insights Dashboard: Pizza Company Case Study (Power BI + SQL)
 [![SQL Server](https://img.shields.io/badge/SQL‑Server-KPIs-blue)]()
 
 A full‑cycle business‑intelligence solution that turns raw pizza‑order data into interactive, executive‑ready insights.  
-The repo contains the **Power BI `.pbix`**, **SQL scripts**, and exportable visuals for quick portfolio review.
+The repo contains the **Power BI `.pbix`** and exportable visuals for quick portfolio review.
 
 ---
 
